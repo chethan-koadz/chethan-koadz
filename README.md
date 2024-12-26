@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chethan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chethan-koadz&label=Profile%20views&color=0e75b6&style=flat" alt="chethan-koadz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chethan-koadz" alt="chethan-koadz" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
